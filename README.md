@@ -15,7 +15,7 @@ We operate as a focused cybersecurity research and development team, combining a
 - **Dr. A.O. Adejimi** – Computational Intelligence & Data Systems  
 
 ### AI Systems Development
-- **Enoch Oluwumi** – Data Scientist & AI Systems Developer *(Lead Implementer)*  
+- **Enoch Oluwumi** – Data Scientist & AI Systems Developer
 
 ---
 
