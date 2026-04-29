@@ -1,1 +1,65 @@
-# SmartDefenceTeam
+# 🛡️ Smart Defence Team – Cybersecurity Research & AI Systems
+
+We operate as a focused cybersecurity research and development team, combining academic expertise with applied AI system design to address real-world cyber threats.
+
+---
+
+## 👥 Team Structure
+
+### Project Lead
+- **Prof. Adesina Simon Sodiya** – Professor of Computer Science & Information Security  
+
+### Core Research Team
+- **Dr. D.O. Aborisade** – Cybersecurity & Information Systems  
+- **Dr. O.J. Falana** – Computer Science & Information Security  
+- **Dr. A.O. Adejimi** – Computational Intelligence & Data Systems  
+
+### AI Systems Development
+- **Enoch Oluwumi** – Data Scientist & AI Systems Developer *(Lead Implementer)*  
+
+---
+
+## 🎯 Focus Areas
+
+- Malware Detection and Analysis  
+- Insider Threat Detection through Log Intelligence  
+- Cyber Incident Reporting and Response Systems  
+- AI-driven Cybersecurity Awareness and Behaviour Modelling  
+
+---
+
+## 🚀 Ongoing & Conceptual Projects
+
+### 🔹 Preservation-First Malware Detection  
+A research-driven approach to malware classification that preserves the structural integrity of visualized malware samples using zero-padding and dynamic input strategies instead of conventional resizing.
+
+### 🔹 Intelligent Log Analyzer for Insider Threat Detection  
+A system for analysing heterogeneous enterprise logs using behavioural modelling, embeddings, and sequence analysis to detect suspicious internal activity.
+
+### 🔹 CyberXTalk  
+A multilingual cyber incident reporting and management system designed to improve cyber threat visibility, classification, and response across diverse user groups.
+
+---
+
+## 🧠 Vision
+
+To build AI-powered cybersecurity systems that are:
+
+- Structurally faithful  
+- Context-aware  
+- Scalable  
+- Aligned with real-world cybersecurity challenges  
+
+---
+
+## 📌 Note
+
+Smart Defence Team is a collaborative research initiative integrating academic expertise with practical AI system development.
+
+---
+
+## 🔗 Contact / Lead Developer
+
+**Enoch Oluwumi**  
+Data Scientist & AI Systems Developer  
+GitHub: https://github.com/eOluwumi  
