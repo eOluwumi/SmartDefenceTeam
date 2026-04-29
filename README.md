@@ -7,12 +7,12 @@ We operate as a focused cybersecurity research and development team, combining a
 ## 👥 Team Structure
 
 ### Project Lead
-- **Prof. Adesina Simon Sodiya** – Professor of Computer Science & Information Security  
+- **Prof. A. S. Sodiya** – Professor of Computer Science & Information Security  
 
 ### Core Research Team
-- **Dr. D.O. Aborisade** – Cybersecurity & Information Systems  
-- **Dr. O.J. Falana** – Computer Science & Information Security  
-- **Dr. A.O. Adejimi** – Computational Intelligence & Data Systems  
+- **Dr. D. O. Aborisade** – Cybersecurity & Information Systems  
+- **Dr. O. J. Falana** – Computer Science & Information Security  
+- **Dr. A. O. Adejimi** – Computational Intelligence & Data Systems  
 
 ### AI Systems Development
 - **Enoch Oluwumi** – Data Scientist & AI Systems Developer
