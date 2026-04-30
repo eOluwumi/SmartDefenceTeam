@@ -1,4 +1,6 @@
-<img width="324" height="322" alt="image" src="https://github.com/user-attachments/assets/c1015f9b-33aa-4362-a04c-f7795b46f447" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1015f9b-33aa-4362-a04c-f7795b46f447" width="324" height="322" />
+</p>
 # 🛡️ Smart Cyber Defence Team – Cybersecurity Research & Innovation Hub
 
 We operate as a focused cybersecurity innovations, research and development team, combining academic expertise with applied AI system design to address real-world cyber threats.
