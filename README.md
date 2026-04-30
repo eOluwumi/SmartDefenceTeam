@@ -1,4 +1,4 @@
-# 🛡️ Smart Defence Network – Cybersecurity Research & AI Systems
+# 🛡️ Smart Defence Team – Cybersecurity Research & AI Systems
 
 We operate as a focused cybersecurity research and development team, combining academic expertise with applied AI system design to address real-world cyber threats.
 
