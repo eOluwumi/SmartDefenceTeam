@@ -55,7 +55,7 @@ To build AI-powered cybersecurity systems that are:
 
 ## 📌 Note
 
-Smart Defence Team is a collaborative research initiative integrating academic expertise with practical AI system development.
+Smart Cyber Defence Team is a collaborative research initiative integrating academic expertise with practical AI system development.
 
 ---
 
