@@ -3,7 +3,8 @@
 </p>
 
 
-# 🛡️ Smart Cyber Defence Team – Cybersecurity Research & Innovation    Hub
+# 🛡️ Smart Cyber Defence Team – Cybersecurity Research & Innovation
+      Hub
 
 We operate as a focused cybersecurity innovations, research and development team, combining academic expertise with applied AI system design to address real-world cyber threats.
 
