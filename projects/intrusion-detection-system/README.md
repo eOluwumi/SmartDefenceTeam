@@ -1,83 +1,42 @@
-# Intrusion Detection System
-
-An atomic Smart Cyber Defence Team project focused on detecting malicious or abnormal network and system activity using rule-based, machine learning, and later deep learning approaches.
-
-## Legacy Alignment
-
-This project aligns strongly with the research legacy of Prof. A. S. Sodiya, whose work spans cybersecurity, attack/intrusion detection, authentication systems, cryptography, privacy protection, system security, distributed systems security, and critical information infrastructure protection.
+# Intrusion Detection System (IDS)
 
 ## Purpose
+Detect malicious network and system activity using machine learning.
 
-The project aims to build a practical intrusion detection system that can analyse traffic or event records and identify suspicious activity patterns.
+## Problem
+Traditional security systems fail to detect evolving attack patterns in real time.
 
 ## MVP Scope
+- Load intrusion detection dataset
+- Preprocess features
+- Train ML classifier
+- Evaluate performance
+- Predict attack labels
 
-The first version focuses on:
-
-- Reading structured intrusion detection datasets
-- Extracting relevant traffic/event features
-- Training a baseline machine learning classifier
-- Producing intrusion labels and confidence scores
-- Reporting basic evaluation metrics
-
-## Possible Dataset Options
-
+## Input
+Dataset examples:
 - NSL-KDD
 - CICIDS2017
 - UNSW-NB15
-- CSE-CIC-IDS2018
-- Custom enterprise/network logs
 
-## Core Detection Categories
+## Output
+- attack classification
+- confidence score
+- evaluation metrics
 
-- Normal activity
-- Denial of Service
-- Probe / scanning
-- Brute force
-- Web attack
-- Botnet activity
-- Data exfiltration
-- Other suspicious traffic
-
-## Project Structure
-
+## Pipeline
 ```text
-projects/intrusion-detection-system/
-├── README.md
-├── requirements.txt
-├── sample_data/
-├── notebooks/
-├── src/
-│   ├── preprocess.py
-│   ├── train.py
-│   ├── evaluate.py
-│   └── predict.py
-└── docs/
+Dataset → Preprocessing → Training → Evaluation → Prediction
 ```
 
-## MVP Pipeline
-
-```text
-Dataset → Preprocessing → Feature Selection → Model Training → Evaluation → Prediction Report
+## Run (future)
+```bash
+python src/train.py
+python src/evaluate.py
 ```
 
-## Baseline Models
-
-- Logistic Regression
-- Random Forest
-- XGBoost / LightGBM, later
-- Autoencoder, later
-- LSTM / Transformer sequence model, later
-
-## Strategic Direction
-
-This project may evolve into:
-
-- Network intrusion detection engine
-- Critical infrastructure monitoring module
-- Enterprise cyber defence analytics tool
-- Research prototype for adaptive intrusion detection
-
-## Guiding Principle
-
-Machine learning and deep learning are tools. The true mission is cyber defence: detecting attacks early, reducing damage, and protecting critical systems.
+## Next Steps
+- Feature engineering
+- Deep learning models (LSTM/Autoencoder)
+- Real-time detection
+- Integration with CII protection systems
