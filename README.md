@@ -31,10 +31,25 @@ We operate as a focused cybersecurity innovation, research and development team,
 
 ## 🎯 Focus Areas
 
-- Malware Detection and Analysis
-- Insider Threat Detection through Log Intelligence
-- Cyber Incident Reporting and Response Systems
-- AI-driven Cybersecurity Awareness and Behaviour Modelling
+## 🎯 Focus Areas
+
+- **Malware Detection and Analysis**  
+  Researching intelligent techniques for detecting, classifying, and analysing malicious software, including zero-day, obfuscated, and structurally complex malware.
+
+- **Insider Threat Detection through Log Intelligence**  
+  Developing AI-supported methods for analysing system, network, and user activity logs to identify suspicious internal behaviour, privilege misuse, and early warning indicators.
+
+- **Cyber Incident Reporting and Response Systems**  
+  Designing structured platforms for reporting, classifying, escalating, and managing cyber incidents across organizations, sectors, and user groups.
+
+- **AI-driven Cybersecurity Awareness and Behaviour Modelling**  
+  Applying artificial intelligence to understand user behaviour, improve cyber hygiene, personalize awareness training, and reduce human-factor security risks.
+
+- **Critical Information Infrastructure Protection**  
+  Building intelligent cyber defence approaches for protecting essential digital systems and services in sectors such as banking, government, education, healthcare, and national infrastructure.
+
+- **Intrusion Detection Systems**  
+  Exploring intelligent network, host, and hybrid intrusion detection models for identifying unauthorized access, abnormal traffic patterns, and emerging attack behaviours.
 
 ---
 
