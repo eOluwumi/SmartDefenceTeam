@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/smart-cyber-defence-logo.png" alt="Smart Cyber Defence Research Hub Logo" width="220"/>
+  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/87c944a4-bdf3-466f-8523-631fae531a4c" />
 </p>
+
 
 # 🛡️ SMART CYBER DEFENCE TEAM
 
@@ -59,3 +60,28 @@ To build AI-powered cybersecurity systems that are:
 
 - Structurally faithful
 - Context-aware
+- Research-grounded
+- Implementation-ready
+- Useful for real-world cyber defence operations
+
+---
+
+## 📌 Development Status
+
+This repository currently serves as the public-facing base for the Smart Cyber Defence Team research and innovation initiative.
+
+Detailed datasets, experimental notebooks, internal architecture, and sensitive implementation assets may remain private until they are ready for responsible publication.
+
+---
+
+## Contact
+
+**Enoch O. Oluwumi**  
+Data Scientist | AI Systems Developer | Cybersecurity Researcher  
+GitHub: https://github.com/eOluwumi
+
+---
+
+<p align="center">
+  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/87c944a4-bdf3-466f-8523-631fae531a4c" />
+</p>
