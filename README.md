@@ -31,8 +31,6 @@ We operate as a focused cybersecurity innovation, research and development team,
 
 ## 🎯 Focus Areas
 
-## 🎯 Focus Areas
-
 - **Malware Detection and Analysis**  
   Researching intelligent techniques for detecting, classifying, and analysing malicious software, including zero-day, obfuscated, and structurally complex malware.
 
