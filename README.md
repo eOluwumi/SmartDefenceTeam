@@ -1,39 +1,61 @@
-# 🛡️ Smart Cyber Defence Team
+<p align="center">
+  <img src="assets/smart-cyber-defence-logo.png" alt="Smart Cyber Defence Research Hub Logo" width="220"/>
+</p>
 
-**Applied cybersecurity research and AI systems development initiative.**
+# 🛡️ SMART CYBER DEFENCE TEAM
 
-This repository is currently under private development and public-facing documentation is intentionally limited pending internal review.
+## Cybersecurity Research & Innovation Hub
 
-## Focus Areas
-
-- AI-assisted cyber defence research
-- Malware detection and analysis
-- Insider threat and log intelligence
-- Cyber incident reporting and response systems
-- Cybersecurity awareness and behaviour modelling
-
-## Development Status
-
-This project is being refined as a collaborative research and systems-design initiative. Detailed architecture, datasets, experiments, internal notes, and implementation artifacts will remain private until they are ready for responsible publication.
-
-## Public Release Plan
-
-Future public releases may include:
-
-- Clean technical documentation
-- Architecture diagrams
-- Non-sensitive system demos
-- Reproducible research notes
-- Sanitized sample schemas and workflows
-
-## Contact
-
-For public-facing technical enquiries, contact:
-
-**Enoch Oluwumi**  
-Data Scientist & AI Systems Developer  
-GitHub: https://github.com/eOluwumi
+We operate as a focused cybersecurity innovation, research and development team, combining academic expertise with applied AI system design to address real-world cyber threats.
 
 ---
 
-> Build quietly. Publish deliberately. Let the work speak when it is ready.
+## 👥 Team Structure
+
+### Project Lead
+
+- **Prof. A. S. Sodiya** – Professor of Computer Science & Information Security
+
+### Core Research Team
+
+- **Dr. D. O. Aborisade** – Cybersecurity & Information Systems
+- **Dr. O. J. Falana** – Computer Science & Information Security
+- **Dr. A. O. Adejumo** – Computational Intelligence & Data Systems
+
+### AI Systems Development
+
+- **E. O. Oluwumi** – Data Scientist & AI Systems Developer
+
+---
+
+## 🎯 Focus Areas
+
+- Malware Detection and Analysis
+- Insider Threat Detection through Log Intelligence
+- Cyber Incident Reporting and Response Systems
+- AI-driven Cybersecurity Awareness and Behaviour Modelling
+
+---
+
+## 🚀 Ongoing & Conceptual Projects
+
+### 🔹 Preservation-First Malware Detection
+
+A research-driven approach to malware classification that preserves the structural integrity of visualized malware samples using zero-padding and dynamic input strategies instead of conventional resizing.
+
+### 🔹 Intelligent Log Analyzer for Insider Threat Detection
+
+A system for analysing heterogeneous enterprise logs using behavioural modelling, embedding, and sequence analysis to detect suspicious internal activity.
+
+### 🔹 CyberXTalk
+
+A multilingual cyber incident reporting and management system designed to improve cyber threat visibility, classification, and response across diverse user groups.
+
+---
+
+## 🧠 Vision
+
+To build AI-powered cybersecurity systems that are:
+
+- Structurally faithful
+- Context-aware
