@@ -21,7 +21,7 @@ We operate as a focused cybersecurity innovation, research and development team,
 
 - **Dr. D. O. Aborisade** – Cybersecurity & Information Systems
 - **Dr. O. J. Falana** – Computer Science & Information Security
-- **Dr. A. O. Adejumo** – Computational Intelligence & Data Systems
+- **Dr. A. O. Adejimi** – Computational Intelligence & Data Systems
 
 ### AI Systems Development
 
