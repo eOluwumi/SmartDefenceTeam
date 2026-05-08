@@ -65,5 +65,3 @@ Data Scientist | AI Systems Developer | Cybersecurity Researcher
 GitHub: https://github.com/eOluwumi
 
 ---
-
-> Build quietly. Publish deliberately. Let the work speak when it is ready.
