@@ -5,7 +5,7 @@
 
 # 🛡️ SMART CYBER DEFENCE TEAM
 
-## Cybersecurity Research & Innovation Hub
+## _Cybersecurity Research & Innovation Hub_
 
 We operate as a focused cybersecurity innovation, research and development team, combining academic expertise with applied AI system design to address real-world cyber threats.
 
